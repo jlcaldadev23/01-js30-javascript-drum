@@ -22,7 +22,7 @@ body {
       rgba(123, 80, 80, 0.35),
       rgba(0, 0, 0, 0.35)
     ),
-    url(/starter/background.jpg);
+    url(starter/background.jpg);
   background-size: cover;
   background-position: center;
   justify-content: center;
